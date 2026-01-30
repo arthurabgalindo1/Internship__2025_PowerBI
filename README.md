@@ -1,5 +1,5 @@
 # Summer Internship 2025 - M1
-During my summer internship in 2025, I made a project for a pharmaceutical products’ distribution company in Brazil. For this project, I had to create a dashboard to show the products that might expire without being sold, causing wastes to the company. For reasons of confidentiality, I can’t show the dashboard on this website, but the company allowed me to show in specific cases outside Brazil.
+During my summer internship in 2025, I made a project for a pharmaceutical products’ distribution company in Brazil. For this project, I had to create a dashboard to show the products that might expire without being sold, causing wastes to the company. 
 This project a quite simple by the technical point of view, I had only one database, but it was important to acquire experience on data analysis.
 
 ## Data treatment
