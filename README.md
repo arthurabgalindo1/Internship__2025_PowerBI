@@ -5,3 +5,9 @@ This project a quite simple by the technical point of view, I had only one datab
 ## Data treatment
 On a weekly basis, I received a database containing expected losses for products that had been purchased in excess. These datasets were used to continuously update the analytical model.
 Data preparation and transformation were performed using Excel and DAX. I reshaped the data and created new KPIs derived from existing indicators to better assess expiration risk and potential financial losses.
+
+## KPIs
+Together with my internship supervisor, we selected KPIs with the objective of helping the company identify actionable solutions for products at risk before their expiration date, as well as providing insights to support future purchasing decisions.
+Using a product code search, the dashboard allowed users to visualize the corresponding batches, including product description, supplier, quantities, and the estimated financial loss associated with each lot.
+The analysis also highlighted the main suppliers and active ingredients responsible for the highest potential losses, enabling a more strategic view of inventory management and procurement.
+
