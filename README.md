@@ -15,5 +15,6 @@ We also could see the main suppliers and the main active ingredients causing the
 
 ## Dashboard
 To show these indicators in the dashboard, I used cards, pizza graphic, a button to choose a supplier, a list and lines graphic. 
-I used the main company colors, in tons of blue and a research bar where we could tape a product’s code. 
+The company allowed me to publish the dashboard hiding any sensitive information.
 
+<img width="1167" height="657" alt="Dashboard internship" src="https://github.com/user-attachments/assets/d0a32104-e6af-4a04-a93e-27ece2c9f40f" />
