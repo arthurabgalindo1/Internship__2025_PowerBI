@@ -7,9 +7,10 @@ On a weekly basis, I received a database containing expected losses for products
 Data preparation and transformation were performed using Excel and DAX. I reshaped the data and created new KPIs derived from existing indicators to better assess expiration risk and potential financial losses.
 
 ## KPIs
-Together with my internship supervisor, we selected KPIs with the objective of helping the company identify actionable solutions for products at risk before their expiration date, as well as providing insights to support future purchasing decisions.
+Together with my internship tutor, we chose the KPIs thinking about how the company could find solutions for these products before the expiration date and gain perspectives on new purchases.
 
-Using a product code search, the dashboard allowed users to visualize the corresponding batches, including product description, supplier, quantities, and the estimated financial loss associated with each lot.
+Through a search using the product code, we could see the lots corresponding to this product, its description, its supplier, the quantity, and the potential losses in the lot.
 
-The analysis also highlighted the main suppliers and active ingredients responsible for the highest potential losses, enabling a more strategic view of inventory management and procurement.
+We also could see the main suppliers and the main active ingredients causing the most losses.
+
 
